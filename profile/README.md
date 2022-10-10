@@ -1,2 +1,2 @@
 # The Mobile Workshop
-![banner](./assets/banner-new.png)
+![banner](/profile/assets/banner-new.png)
